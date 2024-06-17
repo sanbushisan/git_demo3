@@ -13,5 +13,6 @@ public class Text {
         System.out.println("master");
         System.out.println("gitee");
         System.out.println("idea");
+        System.out.println("hello gitee");
     }
 }
