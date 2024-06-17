@@ -10,5 +10,7 @@ public class Text {
         System.out.println("hello git git");
         System.out.println("hello fix git");
         System.out.println("hello dev git");
+        System.out.println("master");
+        System.out.println("gitee");
     }
 }
